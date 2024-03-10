@@ -7,4 +7,5 @@ Um Exercicio feito sobre a proposta de tema da Devmidia .
   - HTML5
   - CSS
 
-![Pet shop]()
+![Coffee House Manhattan](https://github.com/joao626/Coffee-House-Manhattan/assets/62768866/c4638e51-1c7d-49a7-8cd6-ab46907d5846)
+
