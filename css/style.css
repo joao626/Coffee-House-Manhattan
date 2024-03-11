@@ -46,7 +46,7 @@
 }
 .banner{
     height: 100vh;
-    background: url(/assets/parallax-imagem1.png);
+    background: url(/Coffee-House-Manhattan/assets/parallax-imagem1.png);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -80,7 +80,7 @@
     text-align: center;
 }
 .banner-2{
-    background-image: url(/assets/parallax-imagem2.jpg);
+    background-image: url(/Coffee-House-Manhattan/assets/parallax-imagem2.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -100,7 +100,7 @@
     text-align: center;
 }
 .banner-3{
-    background-image: url(/assets/parallax-imagem3.jpg);
+    background-image: url(/Coffee-House-Manhattan/assets/parallax-imagem3.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -120,7 +120,7 @@
     text-align: center;
 }
 .contatos{
-    background-image: url(/assets/parallax-imagem4.png);
+    background-image: url(/Coffee-House-Manhattan/assets/parallax-imagem4.png);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -158,7 +158,7 @@
     text-align: center;
 }
 .horarios{
-    background-image: url(/assets/cafeteria.jpg);
+    background-image: url(/Coffee-House-Manhattan/assets/cafeteria.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
